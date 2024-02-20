@@ -1,0 +1,4 @@
+## iOSプロジェクトの概要
+iOSはUseCase層まではKotlin Multi Platformで記載し、ReactorはThe Composable Architectureを使用して構成します。
+
+また、projectファイルのコンフリクトを避け、UI部分のビルド高速化を狙うためにマルチモジュール構成としています。
